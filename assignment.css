@@ -29,7 +29,7 @@ nav ul li a:hover{
     color: rgb(38, 243, 38);
 }
 #Home{
-    background: url(picture/health\ and\ fitness.jpg);
+    background: url(health\ and\ fitness.jpg);
     background-size: cover;
 }
 span{
@@ -67,14 +67,14 @@ span{
     }
 }
 #About{
-    background: url(picture/Health-and-Fitness-Tips-1.jpg);
+    background: url(Health-and-Fitness-Tips-1.jpg);
     background-size: cover;
 }
 .par{
    margin-left: 1000px;
 }
 #Info{
-    background:url(picture/navycolor.jpg);
+    background:url(navycolor.jpg);
     background-size: cover;
 }
 .click{
@@ -94,7 +94,7 @@ span{
     text-shadow: 13px;
 }
 #Product{
-    background: url(picture/wp9198864.webp);
+    background: url(wp9198864.webp);
     background-size: cover;
 }
 .card-title{
@@ -116,7 +116,7 @@ svg{
     height: 180px;
 }
 #Contact{
-  background: url(picture/navycolor.jpg) ;
+  background: url(navycolor.jpg) ;
   background-size: cover;
 }
 .email-contact, .phone-contact,.address-contact{
